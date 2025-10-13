@@ -182,7 +182,7 @@ Gecikme 30: p-value = 0.097  → otokorelasyon YOK
 ```
 
 **Yorum:**  
-Tüm p-değerleri 0.05'ten büyük → Hiçli hipotezi **reddedilemiyor**.  
+Tüm p-değerleri 0.05'ten büyük → Hiçlik hipotezi **reddedilemiyor**.  
 **Sonuç:** Artıklar white noise → Model istatistiksel olarak **GEÇERLİ**
 
 ---
